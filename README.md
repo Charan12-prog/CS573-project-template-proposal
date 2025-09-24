@@ -36,22 +36,17 @@ Result: As stress goes up, “None” decreases and Insomnia/Apnea increase.
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof-of-concept visualization: a **scatter plot of Sleep Duration vs. Stress Level**, colored by **gender** with trend lines; it shows a clear **negative relationship** (more sleep → lower stress) for both males and females.
+Previous Assignment 4: Scatter plot
+<img width="885" height="602" alt="Scatter plot of assignment 4" src="https://github.com/user-attachments/assets/ab897531-883c-4472-9da5-64fcd9121cc7" />
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+Week 5 (Bar Chart)
+This shows the Avg sleep (hrs/night) across stress bins **Low (1–3), Medium (4–6), High (7–10)**, split by gender.  
+Here you can see Sleep drops with stress; small gender differences (Female higher at Low, Male higher at Medium; both **6.2 h** at High).  
 
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can put images into here by pasting them into issues.
-
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
+<img width="922" height="514" alt="Week 5 Bar Chart" src="https://github.com/user-attachments/assets/a159dfc2-608e-4bfd-88c4-8edd6bc7baab" />
 
 
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
 
 ## Open Questions
 
