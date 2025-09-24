@@ -20,9 +20,15 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+Sketch 1 — Avg Sleep by Stress × Gender
+Bar chart of average sleep for Low/Medium/High stress; Blue = Male, Black = Female.
+Result: Higher stress → less sleep for both; male and female are almost the same.
 <img width="946" height="784" alt="Sketch 1" src="https://github.com/user-attachments/assets/ffab3280-8b6a-4f38-a5ab-12575ce1fde1" />
+Sketch 2 — Sleep Disorder % by Stress
+Stacked bars show % with None, Insomnia (//), Apnea (xx) at each stress level.
+Result: As stress goes up, “None” decreases and Insomnia/Apnea increase.
+<img width="880" height="646" alt="Sketch 2" src="https://github.com/user-attachments/assets/3f841445-a9a6-40b0-afbf-4a403e1c73a0" />
+
 
 
 
