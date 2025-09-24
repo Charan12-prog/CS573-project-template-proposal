@@ -36,10 +36,12 @@ Result: As stress goes up, “None” decreases and Insomnia/Apnea increase.
 
 ## Prototypes
 Previous Week Assignment 4: Sleep vs Stress (Scatter plot)
+
 I’ve created a proof-of-concept visualization: a **scatter plot of Sleep Duration vs. Stress Level**, colored by **gender** with trend lines; it shows a clear **negative relationship** (more sleep → lower stress) for both males and females.
 <img width="885" height="602" alt="Scatter plot of assignment 4" src="https://github.com/user-attachments/assets/ab897531-883c-4472-9da5-64fcd9121cc7" />
 
 Current Week 5: Sleep Duration vs Stess Level (Bar Chart)
+
 I’ve created a proof-of-concept visualization: a **grouped bar chart** of average sleep by stress level (Low/Medium/High) split by gender;
 This shows the Avg sleep (hrs/night) across stress bins **Low (1–3), Medium (4–6), High (7–10)**, split by gender.  
 Here you can see Sleep drops with stress; small gender differences (Female higher at Low, Male higher at Medium; both **6.2 h** at High).  
