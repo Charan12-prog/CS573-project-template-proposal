@@ -40,6 +40,8 @@ Previous Week Assignment 4: Sleep vs Stress (Scatter plot)
 I’ve created a proof-of-concept visualization: a **scatter plot of Sleep Duration vs. Stress Level**, colored by **gender** with trend lines; it shows a clear negative relationship between sleep and stress (more sleep → lower stress) for both males and females.
 <img width="885" height="602" alt="Scatter plot of assignment 4" src="https://github.com/user-attachments/assets/ab897531-883c-4472-9da5-64fcd9121cc7" />
 
+Link(VizHub):https://vizhub.com/Charan12-prog/a7291ea6d81b4f33985fc7b7a0daee21
+
 Current Week 5: Sleep Duration vs Stress Level (Bar Chart)
 
 I’ve created a proof-of-concept visualization: a **grouped bar chart** of average sleep by stress level (Low/Medium/High) split by gender;
