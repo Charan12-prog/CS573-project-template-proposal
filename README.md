@@ -2,17 +2,21 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project is Sleep Health and Lifestyle Dataset
+- Here is the link of my Dataset:
+https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
+This Dataset contains 13 attributes which are Person ID, Gender, Age, Occupation, Sleep Duration (hours/night), Quality of Sleep (1–10), Physical Activity Level, Stress Level (1–10), BMI Category, Blood Pressure (e.g., `126/83`), Heart Rate, Daily Steps, Sleep Disorder.
 
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+- How does average sleep duration differ between low, medium, and high stress levels?
+- Do males and females differ in sleep at each stress level?
+- What is the relationship between sleep disorders and both stress and sleep duration?
+- Which features (BMI category, physical activity, daily steps, heart rate) are most correlated with sleep duration?
+
 
 ## Sketches
 
