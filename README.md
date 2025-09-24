@@ -24,6 +24,7 @@ Sketch 1 — Avg Sleep by Stress × Gender
 Bar chart of average sleep for Low/Medium/High stress; Blue = Male, Black = Female.
 Result: Higher stress → less sleep for both; male and female are almost the same.
 <img width="946" height="784" alt="Sketch 1" src="https://github.com/user-attachments/assets/ffab3280-8b6a-4f38-a5ab-12575ce1fde1" />
+
 Sketch 2 — Sleep Disorder % by Stress
 Stacked bars show % with None, Insomnia (//), Apnea (xx) at each stress level.
 Result: As stress goes up, “None” decreases and Insomnia/Apnea increase.
