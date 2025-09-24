@@ -37,7 +37,7 @@ Result: As stress goes up, “None” decreases and Insomnia/Apnea increase.
 ## Prototypes
 Previous Week Assignment 4: Sleep vs Stress (Scatter plot)
 
-I’ve created a proof-of-concept visualization: a **scatter plot of Sleep Duration vs. Stress Level**, colored by **gender** with trend lines; it shows a clear **negative relationship** (more sleep → lower stress) for both males and females.
+I’ve created a proof-of-concept visualization: a **scatter plot of Sleep Duration vs. Stress Level**, colored by **gender** with trend lines; it shows a clear negative relationship between sleep and stress (more sleep → lower stress) for both males and females.
 <img width="885" height="602" alt="Scatter plot of assignment 4" src="https://github.com/user-attachments/assets/ab897531-883c-4472-9da5-64fcd9121cc7" />
 
 Current Week 5: Sleep Duration vs Stess Level (Bar Chart)
@@ -52,8 +52,12 @@ Here you can see Sleep drops with stress; small gender differences (Female highe
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+I’m a bit worried the bar chart is too simple and the tiny male–female gaps could be over-read.  
+The stress bins (1–3, 4–6, 7–10) are arbitrary, so I’ll verify with error bars and quick filters (age/BMI/activity).  
+I’m not too worried overall—two more views (stacked disorders + scatter with trend lines) should make the story clearer.
+
+
 
 ## Milestones
 
-(for each week, estimate what would be accomplised)
+September: finish viz 1 & 2 • October: finish viz 3 & 4 • November: add interactivity + error bars • December: finalize portfolio & polish
