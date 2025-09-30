@@ -35,6 +35,25 @@ Result: As stress goes up, “None” decreases and Insomnia/Apnea increase.
 
 
 ## Prototypes
+
+Week 6A — Sleep vs Stress × Gender (Grouped Bar with Tooltips)
+Forked from my Week 5 baseline (no tooltips).
+I’ve created a proof-of-concept visualization: A grouped bar chart of average sleep (hrs/night) across stress bins Low (1–3), Medium (4–6), High (7–10), split by Gender.
+New (Week 6):I added hover tooltips (stress bin, gender, mean hours, n) so the small differences are easy to read.  
+Result: sleep declines from Low → High; the male–female gap is small.
+<img width="927" height="523" alt="image" src="https://github.com/user-attachments/assets/f708aba4-89e8-4892-88eb-515557e68472" />
+Link(VizHub):https://vizhub.com/Charan12-prog/8fa6ffe649914a42b51ad937e54c445d
+
+
+Week 6B — Sleep Disorder % by Stress (100% stacked) These is the new prototype of Week 6
+I’ve created a proof-of-concept visualization: A 100% stacked bar shows the share of None / Insomnia / Apnea in each stress bin.  
+I moved the legend into its own panel and added % labels + hover (shows % and n).  
+Result: “None” drops as stress rises; “Insomnia” increases; “Apnea” varies by bin.
+<img width="1013" height="527" alt="image" src="https://github.com/user-attachments/assets/4bd7c75c-65a0-4ea8-9145-a3e60dca1580" />
+Link(VizHub): https://vizhub.com/Charan12-prog/d492ae05bbfa4fffab7e92755e2f8541
+
+
+
 Previous Week Assignment 4: Sleep vs Stress (Scatter plot)
 
 I’ve created a proof-of-concept visualization: a **scatter plot of Sleep Duration vs. Stress Level**, colored by **gender** with trend lines; it shows a clear negative relationship between sleep and stress (more sleep → lower stress) for both males and females.
@@ -42,26 +61,17 @@ I’ve created a proof-of-concept visualization: a **scatter plot of Sleep Durat
 Link(VizHub):https://vizhub.com/Charan12-prog/a7291ea6d81b4f33985fc7b7a0daee21
 
 
-Current Week 5: Sleep Duration vs Stress Level (Bar Chart)
-
-I’ve created a proof-of-concept visualization: a **grouped bar chart** of average sleep by stress level (Low/Medium/High) split by gender;
-This shows the Avg sleep (hrs/night) across stress bins **Low (1–3), Medium (4–6), High (7–10)**, split by gender.  
-Here you can see Sleep drops with stress; small gender differences (Female higher at Low, Male higher at Medium; both **6.2 h** at High).  
-
-<img width="922" height="514" alt="Week 5 Bar Chart" src="https://github.com/user-attachments/assets/a159dfc2-608e-4bfd-88c4-8edd6bc7baab" />
-
-Live viz (VizHub):https://vizhub.com/Charan12-prog/d461d9675d6e40069b719c869c40aa39
-
-
-
 ## Open Questions
 
-I’m a bit worried the bar chart is too simple and the tiny male–female gaps could be over-read.  
-The stress bins (1–3, 4–6, 7–10) are arbitrary, so I’ll verify with error bars and quick filters (age/BMI/activity).  
-I’m not too worried overall—two more views (stacked disorders + scatter with trend lines) should make the story clearer.
+I still wonder if the bar chart may be too simple, since the male–female gaps are quite small.  
+The stress bins (1–3, 4–6, 7–10) are arbitrary; I’ll double-check later with error bars and filters (age, BMI, activity).  
+Overall I’m not worried — the new disorder view plus a scatter with trend lines should make the story clearer.
 
 
 
 ## Milestones
 
-September: finish viz 1 & 2 • October: finish viz 3 & 4 • November: add interactivity + error bars • December: finalize portfolio & polish
+September: finish vizzes 1 & 2  
+- October: finish vizzes 3 & 4  
+- November: add interactivity + error bars  
+- December: finalize portfolio & polish
