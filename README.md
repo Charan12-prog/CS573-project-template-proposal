@@ -46,6 +46,7 @@ Link(VizHub):https://vizhub.com/Charan12-prog/8fa6ffe649914a42b51ad937e54c445d
 
 
 Week 6B — Sleep Disorder % by Stress (100% stacked) These is the new prototype of Week 6
+
 I’ve created a proof-of-concept visualization: A 100% stacked bar shows the share of None / Insomnia / Apnea in each stress bin.  
 I moved the legend into its own panel and added % labels + hover (shows % and n).  
 Result: “None” drops as stress rises; “Insomnia” increases; “Apnea” varies by bin.
