@@ -38,11 +38,11 @@ Result: As stress goes up, “None” decreases and Insomnia/Apnea increase.
 
 Week 7 — Sleep Disorder % by Stress × Gender (Interactive + Tooltip)
 Forked from my Week 6B baseline (100% stacked bar).
-I’ve created a proof-of-concept visualization: an **interactive 100% stacked bar** that shows the share of **None / Insomnia / Sleep Apnea** within each stress bin **(Low 1–3, Medium 4–6, High 7–10)**, with a **Gender filter** (All / Male / Female).
-New (Week 7): added hover tooltips (category, % and counts), a dynamic title with the selected gender and n, moved the legend outside the plot, and refined margins/colors for readability.
-Result: as stress rises, “None” decreases while “Insomnia” increases; “Apnea” varies by gender.
+I’ve created an interactive 100% stacked bar chart showing the share of None / Insomnia / Sleep Apnea across stress levels (Low 1–3, Medium 4–6, High 7–10) with a Gender filter (All / Male / Female).
+New (Week 7): added hover tooltips (category, % and counts), a dynamic title with the selected gender and n, and moved the legend outside the plot for clarity.
+Result: as stress increases, “None” decreases, “Insomnia” rises, and “Apnea” varies by gender.
 
-<img width="1164" height="594" alt="image" src="https://github.com/user-attachments/assets/f1d18210-5ad3-44bc-b809-ce1b785c0b20" />
+<img width="1196" height="655" alt="image" src="https://github.com/user-attachments/assets/6142b480-6b9f-4f3a-b834-781b125006e4" />
 
 Link(VizHub):https://vizhub.com/Charan12-prog/02e9c468ca0b483c869b84719a29d8fe
 
@@ -66,15 +66,16 @@ Link(VizHub):https://vizhub.com/Charan12-prog/a7291ea6d81b4f33985fc7b7a0daee21
 
 ## Open Questions
 
-I still wonder if the bar chart may be too simple, since the male–female gaps are quite small.  
-The stress bins (1–3, 4–6, 7–10) are arbitrary; I’ll double-check later with error bars and filters (age, BMI, activity).  
-Overall I’m not worried — the new disorder view plus a scatter with trend lines should make the story clearer.
+(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+One thing I’m thinking about is whether my chart might be too simple, since it mainly compares genders and stress levels.
+It’s a clear bar chart, but I want to make sure I’m not over-interpreting small differences between groups.
+However, I’m confident because I plan to add more visualizations and filters (like age, BMI, and activity) that will make the overall story stronger.
 
 
 
 ## Milestones
 
-September: finish vizzes 1 & 2  
-- October: finish vizzes 3 & 4  
-- November: add interactivity + error bars  
-- December: finalize portfolio & polish
+September: Finish visualizations 1 and 2
+October: Complete visualizations 3 and 4
+November: Add interactivity and error bars
+December: Finalize portfolio and polish everything up.
