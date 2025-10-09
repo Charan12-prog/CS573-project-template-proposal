@@ -36,13 +36,15 @@ Result: As stress goes up, “None” decreases and Insomnia/Apnea increase.
 
 ## Prototypes
 
-Week 6A — Sleep vs Stress × Gender (Grouped Bar with Tooltips)
-Forked from my Week 5 baseline (no tooltips).
-I’ve created a proof-of-concept visualization: A grouped bar chart of average sleep (hrs/night) across stress bins Low (1–3), Medium (4–6), High (7–10), split by Gender.
-New (Week 6):I added hover tooltips (stress bin, gender, mean hours, n) so the small differences are easy to read.  
-Result: sleep declines from Low → High; the male–female gap is small.
-<img width="927" height="523" alt="image" src="https://github.com/user-attachments/assets/f708aba4-89e8-4892-88eb-515557e68472" />
-Link(VizHub):https://vizhub.com/Charan12-prog/8fa6ffe649914a42b51ad937e54c445d
+Week 7 — Sleep Disorder % by Stress × Gender (Interactive + Tooltip)
+Forked from my Week 6B baseline (100% stacked bar).
+I’ve created a proof-of-concept visualization: an **interactive 100% stacked bar** that shows the share of **None / Insomnia / Sleep Apnea** within each stress bin **(Low 1–3, Medium 4–6, High 7–10)**, with a **Gender filter** (All / Male / Female).
+New (Week 7): added hover tooltips (category, % and counts), a dynamic title with the selected gender and n, moved the legend outside the plot, and refined margins/colors for readability.
+Result: as stress rises, “None” decreases while “Insomnia” increases; “Apnea” varies by gender.
+
+<img width="1164" height="594" alt="image" src="https://github.com/user-attachments/assets/f1d18210-5ad3-44bc-b809-ce1b785c0b20" />
+
+Link(VizHub):https://vizhub.com/Charan12-prog/02e9c468ca0b483c869b84719a29d8fe
 
 
 Week 6B — Sleep Disorder % by Stress (100% stacked) These is the new prototype of Week 6.
