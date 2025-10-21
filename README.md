@@ -36,15 +36,20 @@ Result: As stress goes up, “None” decreases and Insomnia/Apnea increase.
 
 ## Prototypes
 Week 8 — Sleep Disorder % by Stress × Gender (Interactive Color Legend + Enhanced Interactivity)
+
 Forked from my Week 7 version (interactive + tooltip baseline).
+
 I added an interactive color legend where hovering highlights a single sleep-disorder category and clicking toggles it on/off, dynamically updating the 100 % stacked bar chart.
 The visualization also features smooth transitions, a gender filter (All / Male / Female), and a consistent color palette (Gray = None, Blue = Insomnia, Orange = Sleep Apnea).
+
 Result:
 As stress levels rise, the share of “None” decreases while “Insomnia” increases, and “Sleep Apnea” varies slightly by gender.
 Interactivity allows viewers to isolate patterns easily and compare across groups.
 
 <img width="1266" height="709" alt="image" src="https://github.com/user-attachments/assets/65fc9e03-7cb7-470c-a39f-a3959fd67c0c" />
 Link(VizHub): https://vizhub.com/Charan12-prog/54a4ebf03cd247b3bf30e7df666259ef
+
+
 
 
 Week 7 — Sleep Disorder % by Stress × Gender (Interactive + Tooltip)
@@ -68,7 +73,9 @@ Link(VizHub):https://vizhub.com/Charan12-prog/a7291ea6d81b4f33985fc7b7a0daee21
 ## Open Questions
 
 -I’m happy with how the interactive legend works, but I’m exploring how to make the transitions smoother or faster.
+
 -I’m also curious about how to design color palettes that remain clear for people with color-vision differences.
+
 -In future weeks, I plan to test adding additional filters such as Age or Physical Activity Level to make the visualization more detailed.
 
 
@@ -76,6 +83,9 @@ Link(VizHub):https://vizhub.com/Charan12-prog/a7291ea6d81b4f33985fc7b7a0daee21
 ## Milestones
 
 September: Finish visualizations 1 and 2
+
 October: Complete visualizations 3 and 4
+
 November: Add interactivity and error bars
+
 December: Finalize portfolio and polish everything up.
