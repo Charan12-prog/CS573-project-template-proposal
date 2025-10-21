@@ -35,6 +35,17 @@ Result: As stress goes up, “None” decreases and Insomnia/Apnea increase.
 
 
 ## Prototypes
+Week 8 — Sleep Disorder % by Stress × Gender (Interactive Color Legend + Enhanced Interactivity)
+Forked from my Week 7 version (interactive + tooltip baseline).
+I added an interactive color legend where hovering highlights a single sleep-disorder category and clicking toggles it on/off, dynamically updating the 100 % stacked bar chart.
+The visualization also features smooth transitions, a gender filter (All / Male / Female), and a consistent color palette (Gray = None, Blue = Insomnia, Orange = Sleep Apnea).
+Result:
+As stress levels rise, the share of “None” decreases while “Insomnia” increases, and “Sleep Apnea” varies slightly by gender.
+Interactivity allows viewers to isolate patterns easily and compare across groups.
+
+<img width="1266" height="709" alt="image" src="https://github.com/user-attachments/assets/65fc9e03-7cb7-470c-a39f-a3959fd67c0c" />
+Link(VizHub): https://vizhub.com/Charan12-prog/54a4ebf03cd247b3bf30e7df666259ef
+
 
 Week 7 — Sleep Disorder % by Stress × Gender (Interactive + Tooltip)
 Forked from my Week 6B baseline (100% stacked bar).
@@ -47,16 +58,6 @@ Result: as stress increases, “None” decreases, “Insomnia” rises, and “
 Link(VizHub):https://vizhub.com/Charan12-prog/02e9c468ca0b483c869b84719a29d8fe
 
 
-Week 6B — Sleep Disorder % by Stress (100% stacked) These is the new prototype of Week 6.
-
-I’ve created a proof-of-concept visualization: A 100% stacked bar shows the share of None / Insomnia / Apnea in each stress bin.  
-I moved the legend into its own panel and added % labels + hover (shows % and n).  
-Result: “None” drops as stress rises; “Insomnia” increases; “Apnea” varies by bin.
-<img width="1013" height="527" alt="image" src="https://github.com/user-attachments/assets/4bd7c75c-65a0-4ea8-9145-a3e60dca1580" />
-Link(VizHub): https://vizhub.com/Charan12-prog/d492ae05bbfa4fffab7e92755e2f8541
-
-
-
 Previous Week Assignment 4: Sleep vs Stress (Scatter plot)
 
 I’ve created a proof-of-concept visualization: a **scatter plot of Sleep Duration vs. Stress Level**, colored by **gender** with trend lines; it shows a clear negative relationship between sleep and stress (more sleep → lower stress) for both males and females.
@@ -66,10 +67,9 @@ Link(VizHub):https://vizhub.com/Charan12-prog/a7291ea6d81b4f33985fc7b7a0daee21
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
-One thing I’m thinking about is whether my chart might be too simple, since it mainly compares genders and stress levels.
-It’s a clear bar chart, but I want to make sure I’m not over-interpreting small differences between groups.
-However, I’m confident because I plan to add more visualizations and filters (like age, BMI, and activity) that will make the overall story stronger.
+-I’m happy with how the interactive legend works, but I’m exploring how to make the transitions smoother or faster.
+-I’m also curious about how to design color palettes that remain clear for people with color-vision differences.
+-In future weeks, I plan to test adding additional filters such as Age or Physical Activity Level to make the visualization more detailed.
 
 
 
