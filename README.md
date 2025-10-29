@@ -33,9 +33,22 @@ Result: As stress goes up, “None” decreases and Insomnia/Apnea increase.
 
 
 
+## Prototypes
+Week 10 — Sleep Disorder % by Stress × Gender (Advanced Interaction + Hover Labels)
+
+Forked from my Week 9 version (interactive legend + gender filter).
+
+I added new hover effects that make other bars fade while the one you hover stays highlighted with a black outline. It also now shows an on-bar number label with the exact percentage and count (like 78.1 % (143)) and a redesigned tooltip that follows the cursor showing the category, stress level, and participant counts. The legend is still interactive but now in black for clarity, and the transitions look smoother when toggling disorders or switching gender.
+
+Result:
+The chart feels more interactive and clear. As stress levels increase, “None” goes down while “Insomnia” and “Sleep Apnea” go up, making it easy to see patterns and compare between groups.
+
+<img width="1324" height="706" alt="image" src="https://github.com/user-attachments/assets/3dd17f34-0273-46b8-906f-29ac5cac5c58" />
+Link(VizHub):https://vizhub.com/Charan12-prog/b54b961ef0344a91814a3b031ec726e2
+
 
 ## Prototypes
-Week 8 — Sleep Disorder % by Stress × Gender (Interactive Color Legend + Enhanced Interactivity)
+Week 9 — Sleep Disorder % by Stress × Gender (Interactive Color Legend + Enhanced Interactivity)
 
 Forked from my Week 7 version (interactive + tooltip baseline).
 
@@ -47,21 +60,7 @@ As stress levels rise, the share of “None” decreases while “Insomnia” in
 Interactivity allows viewers to isolate patterns easily and compare across groups.
 
 <img width="1266" height="709" alt="image" src="https://github.com/user-attachments/assets/65fc9e03-7cb7-470c-a39f-a3959fd67c0c" />
-Link(VizHub): https://vizhub.com/Charan12-prog/54a4ebf03cd247b3bf30e7df666259ef
-
-
-
-
-
-Week 7 — Sleep Disorder % by Stress × Gender (Interactive + Tooltip)
-Forked from my Week 6B baseline (100% stacked bar).
-I’ve created an interactive 100% stacked bar chart showing the share of None / Insomnia / Sleep Apnea across stress levels (Low 1–3, Medium 4–6, High 7–10) with a Gender filter (All / Male / Female).
-New (Week 7): added hover tooltips (category, % and counts), a dynamic title with the selected gender and n, and moved the legend outside the plot for clarity.
-Result: as stress increases, “None” decreases, “Insomnia” rises, and “Apnea” varies by gender.
-
-<img width="1196" height="655" alt="image" src="https://github.com/user-attachments/assets/6142b480-6b9f-4f3a-b834-781b125006e4" />
-
-Link(VizHub):https://vizhub.com/Charan12-prog/02e9c468ca0b483c869b84719a29d8fe
+Link(VizHub):https://vizhub.com/Charan12-prog/54a4ebf03cd247b3bf30e7df666259ef
 
 
 Previous Week Assignment 4: Sleep vs Stress (Scatter plot)
@@ -73,20 +72,16 @@ Link(VizHub):https://vizhub.com/Charan12-prog/a7291ea6d81b4f33985fc7b7a0daee21
 
 ## Open Questions
 
--I’m happy with how the interactive legend works, but I’m exploring how to make the transitions smoother or faster.
+- I’m happy with how the interactive legend and hover features work, but I still want to explore how to make the transitions smoother and faster.
 
--I’m also curious about how to design color palettes that remain clear for people with color-vision differences.
+- I’d like to test different color palettes to make sure the chart is clear for people with color-vision differences.
 
--In future weeks, I plan to test adding additional filters such as Age or Physical Activity Level to make the visualization more detailed.
-
+- In future updates, I plan to add extra filters like Age or Physical Activity Level to see if they reveal new patterns.
 
 
 ## Milestones
 
-September: Finish visualizations 1 and 2
-
-October: Complete visualizations 3 and 4
-
-November: Add interactivity and error bars
-
-December: Finalize portfolio and polish everything up.
+September: Completed initial visualizations (Sleep vs Stress and baseline stacked bar).
+October: Built interactive versions and refined the design with tooltips and transitions.
+November: Added advanced interactions (hover labels, fading effects, smooth transitions).
+December: Finalize the project with annotations, deployment, and full portfolio polish.
