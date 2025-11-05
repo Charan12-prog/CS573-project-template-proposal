@@ -32,6 +32,20 @@ Result: As stress goes up, “None” decreases and Insomnia/Apnea increase.
 
 
 
+## Prototypes
+Week 11 — Sleep Disorder % by Stress × Gender (Final Polished Version)
+
+Forked from my Week 10 version.
+
+This week focused on finalizing and polishing the visualization to make it presentation-ready. I improved the layout spacing, added the Poppins Google Font, and refined the title, subtitle, and caption hierarchy. I also enhanced the tooltip styling, axis readability, and legend alignment for a clean professional look. Rounded corners and subtle shadows were added to give the chart a polished, modern appearance.
+
+Result:
+The final version feels cohesive, self-explanatory, and visually refined. All interactions — hover labels, legend toggling, and gender filtering — now work smoothly. It clearly shows that higher stress levels are linked to more Insomnia and Sleep Apnea, while low-stress groups have mostly “None.”
+
+<img width="1313" height="766" alt="week 11 project-momentum–start-polishing" src="https://github.com/user-attachments/assets/0513b5bc-fb8f-4e49-aff8-4f060825a1d6" />
+
+https://vizhub.com/Charan12-prog/4536c808b181428b9b2029806cf89ea6
+
 
 ## Prototypes
 Week 10 — Sleep Disorder % by Stress × Gender (Advanced Interaction + Hover Labels)
@@ -72,16 +86,15 @@ Link(VizHub):https://vizhub.com/Charan12-prog/a7291ea6d81b4f33985fc7b7a0daee21
 
 ## Open Questions
 
-- I’m happy with how the interactive legend and hover features work, but I still want to explore how to make the transitions smoother and faster.
-
-- I’d like to test different color palettes to make sure the chart is clear for people with color-vision differences.
-
-- In future updates, I plan to add extra filters like Age or Physical Activity Level to see if they reveal new patterns.
+- How can I further optimize **transition speed** and **tooltip timing** for smoother feedback?  
+- What are the most accessible **color palettes** for color-blind users?  
+- Would adding **Age or Activity filters** reveal deeper patterns?
 
 
 ## Milestones
 
-September: Completed initial visualizations (Sleep vs Stress and baseline stacked bar).
-October: Built interactive versions and refined the design with tooltips and transitions.
-November: Added advanced interactions (hover labels, fading effects, smooth transitions).
-December: Finalize the project with annotations, deployment, and full portfolio polish.
+- September: Completed initial visualizations (Sleep vs Stress and baseline stacked bar).  
+- October: Built interactive versions and refined tooltips and transitions.  
+- November: Added advanced interactions (hover labels, fade effects, smooth transitions).  
+- December: Polished visualization with typography and layout enhancements, finalized for presentation and portfolio.
+
