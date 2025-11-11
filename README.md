@@ -42,7 +42,8 @@ This week focused on finalizing and polishing the visualization to make it prese
 Result:
 The final version feels cohesive, self-explanatory, and visually refined. All interactions — hover labels, legend toggling, and gender filtering — now work smoothly. It clearly shows that higher stress levels are linked to more Insomnia and Sleep Apnea, while low-stress groups have mostly “None.”
 
-<img width="1313" height="766" alt="week 11 project-momentum–start-polishing" src="https://github.com/user-attachments/assets/0513b5bc-fb8f-4e49-aff8-4f060825a1d6" />
+<img width="1296" height="750" alt="image" src="https://github.com/user-attachments/assets/54e93c56-1520-47d4-a126-7eee8c98c615" />
+
 
 https://vizhub.com/Charan12-prog/4536c808b181428b9b2029806cf89ea6
 
