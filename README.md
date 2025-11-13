@@ -9,8 +9,7 @@ This Dataset contains 13 attributes which are Person ID, Gender, Age, Occupation
 
 
 ## Demo Video (2-minute Walkthrough)
-👉 **Watch the video here:** [My Project Walkthrough]
-Link: https://youtu.be/dDaw52A6cho
+🎥 **Watch here: https://youtu.be/dDaw52A6cho
 
 This short video gives an overview of:
 - What the dataset is about  
