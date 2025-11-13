@@ -154,50 +154,50 @@ https://vizhub.com/Charan12-prog/4536c808b181428b9b2029806cf89ea6
 
 
 ## Milestones
-- Week 4 — First Prototype (Scatter Plot)
+Week 4 — First Prototype (Scatter Plot)
 
- Built the initial Sleep vs Stress scatter plot with gender-based coloring and trend lines.
+Built the initial Sleep vs Stress scatter plot with gender-based coloring and trend lines.
 
- Confirmed the key dataset insight: higher stress → lower sleep duration.
+Confirmed the key dataset insight: higher stress → lower sleep duration.
 
-- Week 5 — Avg Sleep by Stress × Gender (Static Bar Chart)
+Week 5 — Avg Sleep by Stress × Gender (Static Bar Chart)
 
- Created the first bar chart of average sleep hours across stress bins (Low/Medium/High).
+Created the first bar chart of average sleep hours across stress bins (Low/Medium/High).
 
- Labeled bars with values; identified a clear downward sleep trend at higher stress levels.
+Labeled bars with values; identified a clear downward sleep trend at higher stress levels.
 
-- Week 6 — Tooltip + Basic Interaction Upgrade
+Week 6 — Tooltip + Basic Interaction Upgrade
 
- Added hover tooltips showing exact sleep values for each gender–stress bin.
+Added hover tooltips showing exact sleep values for each gender–stress bin.
 
- Improved readability with labeled averages and cleaner axis formatting.
+Improved readability with labeled averages and cleaner axis formatting.
 
-- Week 7 — 100% Stacked Bar (Static)
+Week 7 — 100% Stacked Bar (Static)
 
- Built the first Sleep Disorder % by Stress stacked bar chart (None / Insomnia / Apnea).
+Built the first Sleep Disorder % by Stress stacked bar chart (None / Insomnia / Apnea).
 
- Insight: “None” decreases and sleep disorders increase as stress rises.
+Insight: “None” decreases and sleep disorders increase as stress rises.
 
-- Week 8 — Gender Filter + Dynamic Binning
+Week 8 — Gender Filter + Dynamic Binning
 
- Added Gender dropdown (All/Male/Female) to update the stacked bars interactively.
+Added Gender dropdown (All/Male/Female) to update the stacked bars interactively.
 
- Chart now recalculates percentages for each selected group.
+Chart now recalculates percentages for each selected group.
 
-- Week 9 — Interactive Color Legend
+Week 9 — Interactive Color Legend
 
- Introduced interactive legend (hover highlight + click to toggle disorders).
+Introduced interactive legend (hover highlight + click to toggle disorders).
 
- Added smooth transitions, consistent colors, and improved interactivity.
+Added smooth transitions, consistent colors, and improved interactivity.
 
-- Week 10 — Hover Labels + Fade Effects
+Week 10 — Hover Labels + Fade Effects
 
- Added numeric labels directly on bars during hover.
+Added numeric labels directly on bars during hover.
 
- Non-hovered bars fade out for clarity; tooltip redesigned to show category, percent, and count.
+Non-hovered bars fade out for clarity; tooltip redesigned to show category, percent, and count.
 
-- Week 11 — Final Polished Version
+Week 11 — Final Polished Version
 
- Completed final layout polish: typography (Poppins), spacing, rounded corners, shadow card.
+Completed final layout polish: typography (Poppins), spacing, rounded corners, shadow card.
 
- Enhanced readability, refined legend alignment, and made all interactions seamless.
+Enhanced readability, refined legend alignment, and made all interactions seamless.
