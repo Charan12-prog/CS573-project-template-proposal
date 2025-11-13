@@ -46,12 +46,15 @@ Link(VizHub):https://vizhub.com/Charan12-prog/a7291ea6d81b4f33985fc7b7a0daee21
 Week 5 — First Prototype (Bar Chart)
 
 This prototype compares the average sleep duration across three stress categories (Low, Medium, High) for both males and females. Each bar represents the average hours of sleep per night within that stress group.
+
 Insights:
 People with low stress sleep the most, averaging around 7.8–8.3 hours.
 Sleep duration drops steadily as stress increases, falling to around 6.2 hours in the high-stress group.
 Male and female patterns look similar, but females show slightly higher sleep in the low-stress group.
 The chart clearly shows a negative relationship between stress and sleep duration.
-<img width="889" height="505" alt="image" src="https://github.com/user-attachments/assets/3c06ad69-c3c2-4b38-a439-a29d9461274a" />
+<img width="928" height="543" alt="image" src="https://github.com/user-attachments/assets/17dce51e-27d5-4a97-8a47-3813ab5d2c0b" />
+
+
 
 
 Link(VizHub):https://vizhub.com/Charan12-prog/d461d9675d6e40069b719c869c40aa39
@@ -60,6 +63,7 @@ Week 6 — Sleep vs Stress (Improved Bar Chart + Tooltip Interaction)
 
 Forked from my Week 5 bar chart.
 This week, I refined the bar chart by adding tooltips that appear when hovering over each bar, showing the exact sleep duration value for that gender and stress category. This makes the chart more interactive and easier to interpret. I also improved the color styling and added clearer labels for stress categories.
+
 Result:
 The updated chart makes the main pattern clearer: both males and females sleep more under low stress and significantly less under high stress. The tooltip interaction helps users compare values precisely and understand the negative relationship between stress and sleep duration.
 <img width="898" height="520" alt="image" src="https://github.com/user-attachments/assets/5eeb3e2f-97e1-4a98-8a8e-8e42e82e428d" />
@@ -70,6 +74,7 @@ Week 7 — Sleep Disorder % by Stress (Baseline 100% Stacked Bar + Tooltip Label
 
 Forked from my Week 6 bar chart version of the project (Sleep vs Stress by Gender).
 This prototype introduces the first 100% stacked bar chart for visualizing sleep disorders (None, Insomnia, Apnea) across Low, Medium, and High stress categories. I added clear percentage labels on each segment and tooltips that show the exact % and sample count when hovering over a bar.
+
 Result:
 The visualization reveals a strong trend:
 Low stress groups are mostly “None” (healthy sleepers).
@@ -85,6 +90,7 @@ Week 8 — Sleep Disorder % by Stress × Gender (Dropdown Filter + Clean Layout)
 
 Forked from my Week 7 baseline stacked bar chart.
 This week, I introduced a gender filter dropdown (All / Male / Female) so the viewer can quickly compare sleep-disorder patterns across different demographics. I also improved the chart layout by adding a cleaner axis style, reorganizing the legend, and adjusting spacing to make the visualization easier to read.
+
 Result:
 The gender filter immediately shows how patterns shift:
 For All, high stress has the highest rates of Insomnia and Sleep Apnea.
@@ -99,6 +105,7 @@ Week 9 — Sleep Disorder % by Stress × Gender (Interactive Color Legend + Enha
 Forked from my Week 8 version (interactive + tooltip baseline).
 I added an interactive color legend where hovering highlights a single sleep-disorder category and clicking toggles it on/off, dynamically updating the 100 % stacked bar chart.
 The visualization also features smooth transitions, a gender filter (All / Male / Female), and a consistent color palette (Gray = None, Blue = Insomnia, Orange = Sleep Apnea).
+
 Result:
 As stress levels rise, the share of “None” decreases while “Insomnia” increases, and “Sleep Apnea” varies slightly by gender.
 Interactivity allows viewers to isolate patterns easily and compare across groups.
@@ -111,6 +118,7 @@ Week 10 — Sleep Disorder % by Stress × Gender (Advanced Interaction + Hover L
 
 Forked from my Week 9 version (interactive legend + gender filter).
 I added new hover effects that make other bars fade while the one you hover stays highlighted with a black outline. It also now shows an on-bar number label with the exact percentage and count (like 78.1 % (143)) and a redesigned tooltip that follows the cursor showing the category, stress level, and participant counts. The legend is still interactive but now in black for clarity, and the transitions look smoother when toggling disorders or switching gender.
+
 Result:
 The chart feels more interactive and clear. As stress levels increase, “None” goes down while “Insomnia” and “Sleep Apnea” go up, making it easy to see patterns and compare between groups.
 
@@ -122,6 +130,7 @@ Week 11 — Sleep Disorder % by Stress × Gender (Final Polished Version)
 
 Forked from my Week 10 version.
 This week focused on finalizing and polishing the visualization to make it presentation-ready. I improved the layout spacing, added the Poppins Google Font, and refined the title, subtitle, and caption hierarchy. I also enhanced the tooltip styling, axis readability, and legend alignment for a clean professional look. Rounded corners and subtle shadows were added to give the chart a polished, modern appearance.
+
 Result:
 The final version feels cohesive, self-explanatory, and visually refined. All interactions — hover labels, legend toggling, and gender filtering — now work smoothly. It clearly shows that higher stress levels are linked to more Insomnia and Sleep Apnea, while low-stress groups have mostly “None.”
 
