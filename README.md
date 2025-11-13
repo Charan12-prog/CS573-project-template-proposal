@@ -154,7 +154,7 @@ https://vizhub.com/Charan12-prog/4536c808b181428b9b2029806cf89ea6
 
 
 ## Milestones
-- Week 4 — First Prototype (Scatter Plot)
+-Week 4 — First Prototype (Scatter Plot)
 
 Built the initial Sleep vs Stress scatter plot with gender-based coloring and trend lines.
 
