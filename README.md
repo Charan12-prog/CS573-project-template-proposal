@@ -8,6 +8,16 @@ https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
 This Dataset contains 13 attributes which are Person ID, Gender, Age, Occupation, Sleep Duration (hours/night), Quality of Sleep (1–10), Physical Activity Level, Stress Level (1–10), BMI Category, Blood Pressure (e.g., `126/83`), Heart Rate, Daily Steps, Sleep Disorder.
 
 
+## Demo Video (2-minute Walkthrough)
+👉 **Watch the video here:** [My Project Walkthrough]
+Link: https://youtu.be/dDaw52A6cho
+
+This short video gives an overview of:
+- What the dataset is about  
+- How the visualizations work  
+- Key insights from the analysis  
+
+
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
