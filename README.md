@@ -145,7 +145,21 @@ The final version feels cohesive, self-explanatory, and visually refined. All in
 
 <img width="1296" height="750" alt="image" src="https://github.com/user-attachments/assets/54e93c56-1520-47d4-a126-7eee8c98c615" />
 
-https://vizhub.com/Charan12-prog/4536c808b181428b9b2029806cf89ea6
+Link(VizHub):https://vizhub.com/Charan12-prog/4536c808b181428b9b2029806cf89ea6
+
+Week 12 — Finishing Touches (Polished Update)
+
+Forked from my Week 11 version. This week I focused on final refinements based on peer feedback. I updated the color scheme so “None” appears as a neutral gray, while Insomnia and Sleep Apnea use related blue tones to visually group healthy vs disordered sleep. I also improved the axis label and subtitle to clearly show that stress is measured on a 1–10 scale before being binned into Low / Medium / High.
+
+I added a new View dropdown (All categories / Disorders only), allowing viewers to quickly focus on just the disorder categories. The legend now includes a short explanation (“Healthy: None · Disordered: Insomnia + Sleep Apnea”) and spacing adjustments ensure everything fits cleanly on screen.
+
+Result: The visualization now feels cleaner, clearer, and easier to interpret. The comparison between healthy and disordered sleep stands out much more, and the overall chart is more polished and readable.
+
+<img width="1110" height="603" alt="image" src="https://github.com/user-attachments/assets/4151e118-ebd0-476d-a4cb-e732cadfa263" />
+
+Link(Vizhub):https://vizhub.com/Charan12-prog/731596eb112747b4b73094b1f7f13e0b
+
+
 
 
 
