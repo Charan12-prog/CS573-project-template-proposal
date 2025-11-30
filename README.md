@@ -150,50 +150,12 @@ The final chart clearly communicates that **higher stress is associated with mor
 
 
 ## Milestones
-Week 4 — First Prototype (Scatter Plot)
 
-Built the initial Sleep vs Stress scatter plot with gender-based coloring and trend lines.
+- Week 4–6 – Sleep vs Stress (Foundational Views)**  
+  Built the first scatter plot and bar charts of sleep vs stress, added tooltips and clear labels, and confirmed the core insight: higher stress → lower sleep duration.
 
-Confirmed the key dataset insight: higher stress → lower sleep duration.
+- Week 7–9 – Sleep Disorders % by Stress (Stacked Bars + Interactivity)**  
+  Switched focus to sleep disorders (None / Insomnia / Sleep Apnea), created 100% stacked bars, then added the Gender dropdown and interactive color legend with smooth transitions.
 
-Week 5 — Avg Sleep by Stress × Gender (Static Bar Chart)
-
-Created the first bar chart of average sleep hours across stress bins (Low/Medium/High).
-
-Labeled bars with values; identified a clear downward sleep trend at higher stress levels.
-
-Week 6 — Tooltip + Basic Interaction Upgrade
-
-Added hover tooltips showing exact sleep values for each gender–stress bin.
-
-Improved readability with labeled averages and cleaner axis formatting.
-
-Week 7 — 100% Stacked Bar (Static)
-
-Built the first Sleep Disorder % by Stress stacked bar chart (None / Insomnia / Apnea).
-
-Insight: “None” decreases and sleep disorders increase as stress rises.
-
-Week 8 — Gender Filter + Dynamic Binning
-
-Added Gender dropdown (All/Male/Female) to update the stacked bars interactively.
-
-Chart now recalculates percentages for each selected group.
-
-Week 9 — Interactive Color Legend
-
-Introduced interactive legend (hover highlight + click to toggle disorders).
-
-Added smooth transitions, consistent colors, and improved interactivity.
-
-Week 10 — Hover Labels + Fade Effects
-
-Added numeric labels directly on bars during hover.
-
-Non-hovered bars fade out for clarity; tooltip redesigned to show category, percent, and count.
-
-Week 11 — Final Polished Version
-
-Completed final layout polish: typography (Poppins), spacing, rounded corners, shadow card.
-
-Enhanced readability, refined legend alignment, and made all interactions seamless.
+- Week 10–12 – Final Polish & UX Improvements**  
+  Added hover labels and fade effects, refined typography and spacing, introduced the View dropdown (All vs Disorders only), and tuned colors so healthy vs disordered sleep are clearly grouped.
