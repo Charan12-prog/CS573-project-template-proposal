@@ -75,10 +75,6 @@ Here are the main stages of how this project evolved over the semester. Each ima
 
 ---
 
-Here are the main stages of how this project evolved over the semester. Each image links to the live VizHub version so you can explore the interaction.
-
----
-
 ### Prototype 1 
 Week 4: Sleep vs Stress (Scatter Plot)
 
