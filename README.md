@@ -31,7 +31,7 @@ Overall, the final visualization clearly shows that **as stress increases, healt
 ---
 
 ## Demo Video (2-minute Walkthrough)
-🎥 **Watch here: https://youtu.be/dDaw52A6cho
+🎥 **Watch here**: https://youtu.be/dDaw52A6cho
 
 This short video gives an overview of:
 - What the dataset is about  
