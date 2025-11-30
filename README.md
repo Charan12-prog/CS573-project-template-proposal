@@ -2,11 +2,32 @@
 
 ## Data
 
-The data I propose to visualize for my project is Sleep Health and Lifestyle Dataset
-- Here is the link of my Dataset:
+The data I visualize in this project is Sleep Health and Lifestyle Dataset.
+-  Dataset Link:
 https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
 This Dataset contains 13 attributes which are Person ID, Gender, Age, Occupation, Sleep Duration (hours/night), Quality of Sleep (1–10), Physical Activity Level, Stress Level (1–10), BMI Category, Blood Pressure (e.g., `126/83`), Heart Rate, Daily Steps, Sleep Disorder.
+In this project I focus on stress, sleep duration, sleep disorders, and gender to explore how stress and lifestyle are connected to sleep quality and sleep disorders.
 
+## Final Visualization – Sleep Disorder % by Stress × Gender
+
+By the end of the project, I built an interactive **100% stacked bar chart** that shows:
+
+- For each **stress level bin** (Low 1–3, Medium 4–6, High 7–10),
+- The **percentage of people** with:
+  - **None** (healthy sleep),
+  - **Insomnia**, and
+  - **Sleep Apnea**.
+
+Key interactions in the final version:
+
+- A Gender dropdown (All / Male / Female) that recalculates percentages.
+- A View dropdown (All categories / Disorders only) that lets viewers focus on Insomnia and Sleep Apnea.
+- An interactive color legend where hovering highlights a category and clicking toggles it on/off.
+- Hover effects that fade other bars, outline the hovered segment, and show precise labels (percentage + count) along with a detailed tooltip.
+
+Overall, the final visualization clearly shows that **as stress increases, healthy sleepers (“None”) decrease and sleep disorders (Insomnia and Sleep Apnea) increase**, for both males and females.
+
+---
 
 ## Demo Video (2-minute Walkthrough)
 🎥 **Watch here: https://youtu.be/dDaw52A6cho
@@ -25,6 +46,10 @@ The following tasks and questions will drive the visualization and interaction d
 - Do males and females differ in sleep at each stress level?
 - What is the relationship between sleep disorders and both stress and sleep duration?
 - Which features (BMI category, physical activity, daily steps, heart rate) are most correlated with sleep duration?
+These questions shaped my sketches, prototypes, and final design.
+
+---
+
 
 
 ## Sketches
