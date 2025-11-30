@@ -133,7 +133,8 @@ The final version keeps the same core idea but **polishes the design and interac
 **Result:**  
 The final chart clearly communicates that **higher stress is associated with more Insomnia and Sleep Apnea**, and lets viewers explore differences across genders with smooth, understandable interactions.
 
-<img width="1309" height="786" alt="image" src="https://github.com/user-attachments/assets/17cee07c-0290-4179-bd6b-ba537144b8e8" />
+[<img width="1110" height="603" alt="Final visualization – Sleep Disorders by Stress × Gender" src="https://github.com/user-attachments/assets/4151e118-ebd0-476d-a4cb-e732cadfa263" />](https://vizhub.com/Charan12-prog/731596eb112747b4b73094b1f7f13e0b)
+
 
 
 
