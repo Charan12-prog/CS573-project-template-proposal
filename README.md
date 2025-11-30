@@ -133,7 +133,8 @@ The final version keeps the same core idea but **polishes the design and interac
 **Result:**  
 The final chart clearly communicates that **higher stress is associated with more Insomnia and Sleep Apnea**, and lets viewers explore differences across genders with smooth, understandable interactions.
 
-[<img width="1110" height="603" alt="Week 12 final version" src="https://github.com/user-attachments/assets/4151e118-ebd0-476d
+<img width="1309" height="786" alt="image" src="https://github.com/user-attachments/assets/17cee07c-0290-4179-bd6b-ba537144b8e8" />
+
 
 
 ## Open Questions
