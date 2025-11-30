@@ -41,7 +41,7 @@ This short video gives an overview of:
 
 ## Questions & Tasks
 
-The following tasks and questions will drive the visualization and interaction decisions for this project:
+The following tasks and questions guided the visualization and interaction decisions for this project:
 
 - How does average sleep duration differ between low, medium, and high stress levels?
 - Do males and females differ in sleep at each stress level?
@@ -147,11 +147,12 @@ The final chart clearly communicates that **higher stress is associated with mor
 
 ## Milestones
 
-- Week 4–6 – Sleep vs Stress (Foundational Views)**  
+- **Week 4–6 – Sleep vs Stress (Foundational Views)**  
   Built the first scatter plot and bar charts of sleep vs stress, added tooltips and clear labels, and confirmed the core insight: higher stress → lower sleep duration.
 
-- Week 7–9 – Sleep Disorders % by Stress (Stacked Bars + Interactivity)**  
+- **Week 7–9 – Sleep Disorders % by Stress (Stacked Bars + Interactivity)**  
   Switched focus to sleep disorders (None / Insomnia / Sleep Apnea), created 100% stacked bars, then added the Gender dropdown and interactive color legend with smooth transitions.
 
-- Week 10–12 – Final Polish & UX Improvements**  
+- **Week 10–12 – Final Polish & UX Improvements**  
   Added hover labels and fade effects, refined typography and spacing, introduced the View dropdown (All vs Disorders only), and tuned colors so healthy vs disordered sleep are clearly grouped.
+
