@@ -6,6 +6,7 @@ The data I visualize in this project is Sleep Health and Lifestyle Dataset.
 -  Dataset Link:
 https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
 This Dataset contains 13 attributes which are Person ID, Gender, Age, Occupation, Sleep Duration (hours/night), Quality of Sleep (1–10), Physical Activity Level, Stress Level (1–10), BMI Category, Blood Pressure (e.g., `126/83`), Heart Rate, Daily Steps, Sleep Disorder.
+
 In this project I focus on stress, sleep duration, sleep disorders, and gender to explore how stress and lifestyle are connected to sleep quality and sleep disorders.
 
 ## Final Visualization – Sleep Disorder % by Stress × Gender
@@ -46,6 +47,7 @@ The following tasks and questions will drive the visualization and interaction d
 - Do males and females differ in sleep at each stress level?
 - What is the relationship between sleep disorders and both stress and sleep duration?
 - Which features (BMI category, physical activity, daily steps, heart rate) are most correlated with sleep duration?
+
 These questions shaped my sketches, prototypes, and final design.
 
 ---
