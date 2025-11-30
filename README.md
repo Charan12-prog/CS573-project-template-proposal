@@ -75,6 +75,10 @@ Here are the main stages of how this project evolved over the semester. Each ima
 
 ---
 
+Here are the main stages of how this project evolved over the semester. Each image links to the live VizHub version so you can explore the interaction.
+
+---
+
 ### Prototype 1 
 Week 4: Sleep vs Stress (Scatter Plot)
 
@@ -130,7 +134,6 @@ The final version keeps the same core idea but **polishes the design and interac
 The final chart clearly communicates that **higher stress is associated with more Insomnia and Sleep Apnea**, and lets viewers explore differences across genders with smooth, understandable interactions.
 
 [<img width="1110" height="603" alt="Week 12 final version" src="https://github.com/user-attachments/assets/4151e118-ebd0-476d
-
 
 
 ## Open Questions
