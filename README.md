@@ -39,7 +39,6 @@ The following tasks and questions guided the visualization and interaction decis
 - How does average sleep duration differ between low, medium, and high stress levels?
 - Do males and females differ in sleep at each stress level?
 - What is the relationship between sleep disorders and both stress and sleep duration?
-- Which features (BMI category, physical activity, daily steps, heart rate) are most correlated with sleep duration?
 
 These questions shaped my sketches, prototypes, and final design.
 
