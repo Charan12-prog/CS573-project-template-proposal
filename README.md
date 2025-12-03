@@ -32,15 +32,6 @@ Overall, the final visualization clearly shows that **as stress increases, healt
 
 ---
 
-## Demo Video (2-minute Walkthrough)
-🎥 **Watch here**: https://youtu.be/dDaw52A6cho
-
-This short video gives an overview of:
-- What the dataset is about  
-- How the visualizations work  
-- Key insights from the analysis  
-
-
 ## Questions & Tasks
 
 The following tasks and questions guided the visualization and interaction decisions for this project:
