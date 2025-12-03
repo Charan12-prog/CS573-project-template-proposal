@@ -112,7 +112,7 @@ Week 12: Final Polished Version (Current)
 
 The final version keeps the same core idea but **polishes the design and interaction**:
 
-- Neutral **gray** for “None” (healthy sleep) and two related **blue** shades for Insomnia and Sleep Apnea (disordered sleep).  
+- **gray** for “None” (healthy sleep) and two related **blue** shades for Insomnia and Sleep Apnea (disordered sleep).  
 - Clearer axis label and subtitle explaining that stress is measured on a 1–10 scale and then binned into Low / Medium / High.  
 - A **View dropdown**: All categories vs Disorders only.  
 - Legend subtitle: “Healthy: None · Disordered: Insomnia + Sleep Apnea”.  
